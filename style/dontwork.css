@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Inter:wght@200&display=swap');
+
+body{
+	background: url("img/Сайт в розробці.png");
+	margin-top: -20px;
+}
+
+p{
+	font-family: "Inter", sans-serif;
+	text-align: center;
+	margin-top: 600px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: gray;
+}
